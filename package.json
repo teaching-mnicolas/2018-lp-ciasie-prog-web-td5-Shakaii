@@ -1,0 +1,28 @@
+{
+  "name": "2018-lp-ciasie-prog-web-td5-shakaii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/App.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teaching-mnicolas/2018-lp-ciasie-prog-web-td5-Shakaii.git"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teaching-mnicolas/2018-lp-ciasie-prog-web-td5-Shakaii/issues"
+  },
+  "homepage": "https://github.com/teaching-mnicolas/2018-lp-ciasie-prog-web-td5-Shakaii#readme",
+  "devDependencies": {
+    "webpack": "^4.26.0",
+    "webpack-cli": "^3.1.2"
+  }
+}
